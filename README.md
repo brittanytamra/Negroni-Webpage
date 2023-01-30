@@ -1,7 +1,7 @@
 # Negroni-Webpage
 
 
-Link to project:
+Link to project: https://brittanytamra.github.io/Negroni-Webpage/
 
 TECH USED: HTML, CSS
 
